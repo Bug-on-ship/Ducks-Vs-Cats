@@ -1,0 +1,702 @@
+{
+   "1": {
+      "Ducky": 1,
+      "Name": "Donald",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "2": {
+      "Ducky": 2,
+      "Name": "Cheese",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "3": {
+      "Ducky": 3,
+      "Name": "Quackers",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "4": {
+      "Ducky": 4,
+      "Name": "Butters",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "5": {
+      "Ducky": 5,
+      "Name": "Peanut",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "6": {
+      "Ducky": 6,
+      "Name": "PJ",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "7": {
+      "Ducky": 7,
+      "Name": "Giggles",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "8": {
+      "Ducky": 8,
+      "Name": "Blinks",
+      "HP": 6,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "9": {
+      "Ducky": 9,
+      "Name": "Utka",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "10": {
+      "Ducky": 10,
+      "Name": "Oli",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "11": {
+      "Ducky": 11,
+      "Name": "Kutti",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "12": {
+      "Ducky": 12,
+      "Name": "Justine Bieber",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "13": {
+      "Ducky": 13,
+      "Name": "Serve Slay and Slime",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "14": {
+      "Ducky": 14,
+      "Name": "The Paddle Gang",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "15": {
+      "Ducky": 15,
+      "Name": "Socrates Plato Aristotle",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "16": {
+      "Ducky": 16,
+      "Name": "Paris Hilton",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "17": {
+      "Ducky": 17,
+      "Name": "Nicole Richie",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "18": {
+      "Ducky": 18,
+      "Name": "Sirius Quack",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "19": {
+      "Ducky": 19,
+      "Name": "Cedric Duckory",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "20": {
+      "Ducky": 20,
+      "Name": "Maximus Quackicus",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "21": {
+      "Ducky": 21,
+      "Name": "Poison Ivy",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "22": {
+      "Ducky": 22,
+      "Name": "Daffodil and Daffophil",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "23": {
+      "Ducky": 23,
+      "Name": "Zavala, Ikora and Cayde",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "24": {
+      "Ducky": 24,
+      "Name": "Specks",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "25": {
+      "Ducky": 25,
+      "Name": "Lucky Bucky Fucky Clucky",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "26": {
+      "Ducky": 26,
+      "Name": "God",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "27": {
+      "Ducky": 27,
+      "Name": "Wanker",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "28": {
+      "Ducky": 28,
+      "Name": "Bell and Hell",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "29": {
+      "Ducky": 29,
+      "Name": "Stormie and Normie",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "30": {
+      "Ducky": 30,
+      "Name": "Buckwheat",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "31": {
+      "Ducky": 31,
+      "Name": "Beavis",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "32": {
+      "Ducky": 32,
+      "Name": "Blue Beak",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "33": {
+      "Ducky": 33,
+      "Name": "Splinter",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "34": {
+      "Ducky": 34,
+      "Name": "Squeakie",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "35": {
+      "Ducky": 35,
+      "Name": "Aerial Annihilation",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "36": {
+      "Ducky": 36,
+      "Name": "Daisy",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "37": {
+      "Ducky": 37,
+      "Name": "Apollo",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "38": {
+      "Ducky": 38,
+      "Name": "Zeus",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "39": {
+      "Ducky": 39,
+      "Name": "Prissy",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "40": {
+      "Ducky": 40,
+      "Name": "Storm",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "41": {
+      "Ducky": 41,
+      "Name": "Rose",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "42": {
+      "Ducky": 42,
+      "Name": "Harley",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "43": {
+      "Ducky": 43,
+      "Name": "Foie",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "44": {
+      "Ducky": 44,
+      "Name": "Gras",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "45": {
+      "Ducky": 45,
+      "Name": "Psilo and Milo",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "46": {
+      "Ducky": 46,
+      "Name": "Gus",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "47": {
+      "Ducky": 47,
+      "Name": "Gussy",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "48": {
+      "Ducky": 48,
+      "Name": "Buddy",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "49": {
+      "Ducky": 49,
+      "Name": "Saff",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "50": {
+      "Ducky": 50,
+      "Name": "The Mean Guys",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "51": {
+      "Ducky": 51,
+      "Name": "Dewy and the Beans",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "52": {
+      "Ducky": 52,
+      "Name": "Magic",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "53": {
+      "Ducky": 53,
+      "Name": "Dot Spot Kot and Scott",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "54": {
+      "Ducky": 54,
+      "Name": "The Pippers",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "55": {
+      "Ducky": 55,
+      "Name": "Duff",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "56": {
+      "Ducky": 56,
+      "Name": "Lin and The Dastardly 10",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "57": {
+      "Ducky": 57,
+      "Name": "Ripley",
+      "HP": 9,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "58": {
+      "Ducky": 58,
+      "Name": "Mica",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "59": {
+      "Ducky": 59,
+      "Name": "Percy",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "60": {
+      "Ducky": 60,
+      "Name": "Biggs",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "61": {
+      "Ducky": 61,
+      "Name": "Myrtle",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "62": {
+      "Ducky": 62,
+      "Name": "Plumb and Dumb",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "63": {
+      "Ducky": 63,
+      "Name": "Chipie",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "64": {
+      "Ducky": 64,
+      "Name": "Pixie",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "65": {
+      "Ducky": 65,
+      "Name": "Lola",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "66": {
+      "Ducky": 66,
+      "Name": "Snowball",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "67": {
+      "Ducky": 67,
+      "Name": "IP Protected Duck",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "68": {
+      "Ducky": 68,
+      "Name": "Walter",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "69": {
+      "Ducky": 69,
+      "Name": "Buffy",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "70": {
+      "Ducky": 70,
+      "Name": "Lemon",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "71": {
+      "Ducky": 71,
+      "Name": "Ducky Mcgucky",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "72": {
+      "Ducky": 72,
+      "Name": "Salmon Berry",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "73": {
+      "Ducky": 73,
+      "Name": "Raspberry II",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "74": {
+      "Ducky": 74,
+      "Name": "Kiwi",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "75": {
+      "Ducky": 75,
+      "Name": "Oreo",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "76": {
+      "Ducky": 76,
+      "Name": "Dove",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "77": {
+      "Ducky": 77,
+      "Name": "George",
+      "HP": 5,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "78": {
+      "Ducky": 78,
+      "Name": "Martha and Stewart",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "79": {
+      "Ducky": 79,
+      "Name": "Marigold",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "80": {
+      "Ducky": 80,
+      "Name": "Petunia",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "81": {
+      "Ducky": 81,
+      "Name": "Lars",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "82": {
+      "Ducky": 82,
+      "Name": "Mona",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "83": {
+      "Ducky": 83,
+      "Name": "Tilly",
+      "HP": 6,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "84": {
+      "Ducky": 84,
+      "Name": "Edna",
+      "HP": 6,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "85": {
+      "Ducky": 85,
+      "Name": "Quack",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "86": {
+      "Ducky": 86,
+      "Name": "Psyduck",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "87": {
+      "Ducky": 87,
+      "Name": "Wiggles",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "88": {
+      "Ducky": 88,
+      "Name": "Waddles",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "89": {
+      "Ducky": 89,
+      "Name": "Panties",
+      "HP": 9,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "90": {
+      "Ducky": 90,
+      "Name": "Patches",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "91": {
+      "Ducky": 91,
+      "Name": "Eyebrow",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "92": {
+      "Ducky": 92,
+      "Name": "Sandy",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "93": {
+      "Ducky": 93,
+      "Name": "Danny",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "94": {
+      "Ducky": 94,
+      "Name": "Noodle",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "95": {
+      "Ducky": 95,
+      "Name": "Chocolate",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "96": {
+      "Ducky": 96,
+      "Name": "Dusty",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "97": {
+      "Ducky": 97,
+      "Name": "Smokey",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "98": {
+      "Ducky": 98,
+      "Name": "Zombie",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "99": {
+      "Ducky": 99,
+      "Name": "Righty",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "100": {
+      "Ducky": 100,
+      "Name": "Frankie",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 1
+   }
+}
