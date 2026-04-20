@@ -154,10 +154,10 @@ function runTurn() {
 initFighters(); // 1 Starts
 
 /////////Distraction Button
-let flashDistraction = document.getElementById("distract_mode");
-let distraction_button = document.getElementById("distract_button")
-distraction_button.addEventListener("click", () => {
-  flashDistraction.classList.toggle("distract_mode_active");});
+// let flashDistraction = document.getElementById("distract_mode");
+// let distraction_button = document.getElementById("distract_button")
+// distraction_button.addEventListener("click", () => {
+//   flashDistraction.classList.toggle("distract_mode_active");});
 ////////Distraction Button
 
 
