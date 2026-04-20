@@ -1,0 +1,370 @@
+#startScreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(50, 50, 50, 0.95);
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  z-index: 1000;
+}
+
+
+.slideUpStartScreen {
+  transform: translateY(-100%);
+  transition: transform 0.4s ease;
+}
+.slideDownStartScreen {
+  transform: translateY(0);
+
+}
+
+
+.endScreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(221, 255, 163, 0.689);
+  color: rgb(0, 0, 0);
+  z-index: 999;
+  font-weight: 600;
+
+
+  transform: translateY(100%); /* starts below screen */
+  transition: transform 0.4s ease;
+
+}
+
+.slideUpEndScreen {
+  transform: translateY(0%);
+}
+
+
+
+/* @keyframes slideUpAnim {
+  0%   { transform: translateY(0); }
+  100%  { transform: translateY(-100%); }  
+}
+.slideUpStartScreen {
+  transform: slideUpAnim .35s ease forwards;
+}
+
+@keyframes slideDownAnim {
+  0%   { transform: translateY(-100%); }
+  100%  { transform: translateY(0%); }  
+}
+.slideDownStartScreen {
+  animation: slideDownAnim .35s ease forwards;
+} */
+
+
+.hidden {
+  display: none !important;
+}
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  position: absolute;
+  top: 15px;
+  left: 14px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.img-box {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.img-box img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+  /* transition: transform .3 ease; */
+}
+
+
+.img-title {
+  position: absolute;
+  bottom: -25px;  /* pushes it outside */
+  left: 0;
+
+  font-size: 16px;
+}
+
+/* Full screen game layout */
+.game-container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4vw;
+  position: relative;
+}
+
+/* Each card scales with screen */
+.card {
+  width: 25vw;
+  height: 60vh;
+
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid black !important;
+
+}
+
+
+.greyscale {
+  filter: grayscale(100%);                        /* Loser will have this applied to them.   */
+}
+
+/* Image area takes most space */
+.image-area {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  overflow: hidden;
+}
+
+.image-area img {
+  max-width: 100%;
+  max-height: 530px;
+}
+
+/* Footer (title now, stats later) */
+.card-footer {
+  height: 15%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+/* Title styling */
+.floating-text {
+  position: fixed;
+  top: 65px;
+  left: 16px;
+  font-size: 23px;
+}
+.floating-text2 {
+  position: fixed;
+  top: 98px;
+  left: 17px;
+  font-size: 15px;
+}
+.floating-text3 {
+  position: fixed;
+  top: 810px;
+  left: 1370px;
+  font-size: 15px;
+}
+
+@keyframes flash {
+  0%   { background-color: black; }
+  50%  { background-color: white; }
+  100% { background-color: black; }
+}
+
+.distract_mode_active {
+  animation: flash .1s infinite;
+}
+
+
+/* TABLEs Styling*/
+.flash {
+  background: rgb(255, 42, 0) !important;
+  transition: background 0.04s ease; 
+  color:antiquewhite;
+}
+
+td:nth-child(1) {
+  background: rgb(173, 255, 130);
+  transition: background 0.2s ease; 
+}
+
+td:nth-child(2) { 
+  background: rgb(255, 141, 121); 
+  transition: background 0.2s ease; /* not used yet */
+}
+td:nth-child(3) { 
+  background: rgb(130, 199, 255); 
+  transition: background 0.2s ease; /* not used yet */
+}
+
+table {
+  text-align: center;
+  border: none;
+
+}
+
+.stat-tables td {
+  text-align: center;
+  border-right: 1px solid black;
+}
+
+/* remove last column line */
+.stat-tables td:last-child {
+  border-right: none;
+}
+
+.stat-tables tr {
+  text-align: center;
+  border-bottom: 1px dotted black;
+  font-weight: bold;
+}
+
+/* remove last column line */
+.stat-tables tr:last-child {
+  border-bottom: none;
+}
+
+
+
+
+
+
+@keyframes shakeLeftRight {
+  0%   { transform: translateX(0); }
+  25%  { transform: translateX(-20px); }  /* left */
+  50%  { transform: translateX(0); }
+  75%  { transform: translateX(20px); }   /* right */
+  100% { transform: translateX(0); }
+}
+
+.slide-animateK {
+  animation: shakeLeftRight 0.3s ease;
+}
+
+
+@keyframes shakeRightLeft {
+  0%   { transform: translateX(0); }
+  25%  { transform: translateX(20px); }  /* left */
+  50%  { transform: translateX(0); }
+  75%  { transform: translateX(-20px); }   /* right */
+  100% { transform: translateX(0); }
+}
+
+.slide-animateD {                     /* total time for animation to hit. */
+  animation: shakeRightLeft 0.3s ease; /* timer must be less then when card ATK FN ends */ 
+}
+
+/* CSS slide-animate animation is main timer, then kitty attack, kitty faint, kitty ui (number + Flash red) must change. 
+OG When css is 300(.3)/, attack is 300, faint is 200 in main, but 400 in JS (removetimer), and update ui is 150 for card num, 100 for flash and 300 to remove flash.
+CSS -> slide-animateK and D.  
+Attack -> JS module
+Faint -> JS module and Main
+UI -> Main 1.number and 2.flash to add/remove */
+
+
+
+@keyframes faintjiggle {
+  0%   { transform: translateX(0); }
+  12%  { transform: translateX(-10px); }  /* left */
+  24%  { transform: translateX(0); }
+  36%  { transform: translateX(10px); }   /* right */
+  48% { transform: translateX(0); }
+  60%  { transform: translateX(-5px); }   /* left */
+  72% { transform: translateX(0); }
+  84%  { transform: translateX(5px); }   /* right */
+  100% { transform: translateX(0); }
+}
+
+.faint-animate {
+  animation: faintjiggle 0.4s ease;
+}
+
+
+
+
+
+
+
+
+
+/*  Clicking a card shrinks it to 90% and gives it a glow. */
+.cardKitty {
+  transition: transform 0.15s ease, box-shadow 0.3s ease;
+}
+.cardDucky {
+  transition: transform 0.15s ease, box-shadow 0.3s ease;
+}
+
+/* shrink */
+.shrink {
+  transform: scale(0.9);
+}
+
+/* glow state */
+.glow {
+  box-shadow: 0 0 10px rgba(0, 200, 255, 0.8),  /* Winner will have this applied to them. */
+            0 0 20px rgba(0, 200, 255, 0.5),
+            0 0 50px rgba(0, 200, 255, 0.3);
+}
+
+.unclickable {
+  pointer-events: none;
+}
+
+/* Clicking a card shrinks it to 90% and gives it a glow. */
+
+
+
+/*   Winner Color Gradient Animation   */
+@keyframes winnerColourAnim {
+  0%   { background-color: rgb(255, 0, 0); }
+  14%  { background-color: rgb(255, 165, 0); }
+  28%  { background-color: rgb(255, 255, 0); }
+  42%  { background-color: rgb(0, 255, 0); }
+  56%  { background-color: rgb(0, 157, 255); }
+  70%  { background-color: rgb(62, 55, 255); }
+  84% { background-color: rgb(174, 0, 255); }
+  100% { background-color: rgb(255, 170, 215); }
+}
+
+#DNAME {
+  animation: winnerColourAnim 1s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,702 @@
+{
+   "1": {
+      "Kitty": "04eEQhDfAL8l5nt3",
+      "Name": "Soulja Boys",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "2": {
+      "Kitty": "05Xd4JtN14983pns",
+      "Name": "Cheerios",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "3": {
+      "Kitty": "09wFxpacQzvf9jfM",
+      "Name": "Catvid 19",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "4": {
+      "Kitty": "0B2g7aTANObiqPJJ",
+      "Name": "Macaroni",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "5": {
+      "Kitty": "0BTTVEVWXNyOgXYd",
+      "Name": "Meow Meow",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "6": {
+      "Kitty": "0C2bQ39x8kuhx31p",
+      "Name": "Radish Spirit",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "7": {
+      "Kitty": "0DVs2d6bIVIt3ehk",
+      "Name": "Birthday Bobby",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "8": {
+      "Kitty": "0EsIYDG0at0TPpPD",
+      "Name": "Fruit Loop",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "9": {
+      "Kitty": "0F0IKAPOdWiE755P",
+      "Name": "Mothball",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "10": {
+      "Kitty": "0GC9MRUAqxhBzPyA",
+      "Name": "Yogurt",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "11": {
+      "Kitty": "0M0Lo3dsYft79xNd",
+      "Name": "Cosmic Brownie",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "12": {
+      "Kitty": "0mstmOIucwiN80jb",
+      "Name": "Air Potato",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "13": {
+      "Kitty": "0mxliw1UgtFdDkU8",
+      "Name": "Mr Cat",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "14": {
+      "Kitty": "0nnJxjVoMK6GVmRS",
+      "Name": "Mr Kitty",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "15": {
+      "Kitty": "0oJmiPshaDZD54M8",
+      "Name": "Mr Karen",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "16": {
+      "Kitty": "0PJwXcTrNzNIzGBJ",
+      "Name": "Pikku Kisu",
+      "HP": 3,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "17": {
+      "Kitty": "0RU7ZkgzyvWv8UJG",
+      "Name": "Jimothy",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "18": {
+      "Kitty": "0TnOAMpokjANBFVk",
+      "Name": "Tomathan",
+      "HP": 10,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "19": {
+      "Kitty": "0U4jE41oGuUWThFX",
+      "Name": "Nedgar",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "20": {
+      "Kitty": "0VlkBO6ValjaoeEw",
+      "Name": "Tedward",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "21": {
+      "Kitty": "0w0AIO9enndfLoko",
+      "Name": "Sir Natholomeow",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "22": {
+      "Kitty": "0wKeoafTJoIbcem8",
+      "Name": "Spat",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "23": {
+      "Kitty": "0wPxI2kqnJ4DoAI8",
+      "Name": "Typo",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "24": {
+      "Kitty": "0XykxsO1fUAZRtPp",
+      "Name": "Mr Toe Beans",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "25": {
+      "Kitty": "0y2qESHWnriH1CyH",
+      "Name": "Toblerone Monster",
+      "HP": 9,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "26": {
+      "Kitty": "0ycVeWWOWgDcGsYC",
+      "Name": "Soup Enhancements",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "27": {
+      "Kitty": "0YOo8tXUKraccqJl",
+      "Name": "Meatwad",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "28": {
+      "Kitty": "0ztFbDrgDV2K7yJ1",
+      "Name": "Balsam",
+      "HP": 9,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "29": {
+      "Kitty": "11yW0nVicWb0fZzo",
+      "Name": "Stinkor",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "30": {
+      "Kitty": "14ksbtRkMqKUHxfY",
+      "Name": "308 Negra Aurora Lane Albecurkey New Mexico",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "31": {
+      "Kitty": "18MD6byVC1yKGpXp",
+      "Name": "Marshmallow",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "32": {
+      "Kitty": "18T0wqXpU3OiGrUb",
+      "Name": "Marzipan",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "33": {
+      "Kitty": "19Ykh6wwZdgIEL2D",
+      "Name": "Liquorice",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "34": {
+      "Kitty": "1AKMzDtX4nlk6w5I",
+      "Name": "Sparrow",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "35": {
+      "Kitty": "1ANDs65qm2hR9o55",
+      "Name": "Oroboros",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "36": {
+      "Kitty": "1bJraW0IwSPm3MVd",
+      "Name": "Pretty Cat",
+      "HP": 7,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "37": {
+      "Kitty": "1CF7xZmlX0t8QpgP",
+      "Name": "Laundry",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "38": {
+      "Kitty": "1ddeGQUlgfQggW6N",
+      "Name": "Spoon",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "39": {
+      "Kitty": "1DrcyohjhwcNaRIz",
+      "Name": "Chimney",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "40": {
+      "Kitty": "1DvnD0NaGHwHMoml",
+      "Name": "Felony",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "41": {
+      "Kitty": "1eGEsddyKNwtBJFP",
+      "Name": "Arson",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "42": {
+      "Kitty": "1Egt9OiLoKACJHPw",
+      "Name": "Treason",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "43": {
+      "Kitty": "1frqP6ajw0JzkR1o",
+      "Name": "Applewits",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "44": {
+      "Kitty": "1gROXVBHMQ8nLxCQ",
+      "Name": "Doornalis",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "45": {
+      "Kitty": "1ihNtm9HkcOub9Li",
+      "Name": "Sir Pumpkin",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "46": {
+      "Kitty": "1JcOo3LnevDdZlcq",
+      "Name": "Baked Beans",
+      "HP": 8,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "47": {
+      "Kitty": "1KCTvPEcpY7ryO34",
+      "Name": "Ghost",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "48": {
+      "Kitty": "1KeQpy7eHqi0SFmc",
+      "Name": "Toasty Ghost",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "49": {
+      "Kitty": "1KSwqj0a2mTz5ZrF",
+      "Name": "Bazazeen",
+      "HP": 9,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "50": {
+      "Kitty": "1LlIgMhb3DfoW4qw",
+      "Name": "Neptune Maiden",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "51": {
+      "Kitty": "1N2AH31jiY6N9TYc",
+      "Name": "Mr Carrots",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "52": {
+      "Kitty": "1NMuf7YAebEz6VTD",
+      "Name": "Eggplant",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "53": {
+      "Kitty": "1ntkA1kLWffNS2xN",
+      "Name": "Spoons",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "54": {
+      "Kitty": "1ozkXaGbz1CriQiG",
+      "Name": "Beans",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "55": {
+      "Kitty": "1pV0B3MW24cNSOHg",
+      "Name": "Pickles",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "56": {
+      "Kitty": "1q1Ce6mM714NrMKf",
+      "Name": "Butters",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "57": {
+      "Kitty": "1RFXsaXoyCZdplFx",
+      "Name": "Hottub Lobster",
+      "HP": 9,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "58": {
+      "Kitty": "1si02A2ZNdeNH3yo",
+      "Name": "Optimus Prime",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "59": {
+      "Kitty": "1sUjl4nEmh9OHwJz",
+      "Name": "Pan",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "60": {
+      "Kitty": "1t9Z9QMPYhu5gBDV",
+      "Name": "Missy",
+      "HP": 9,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "61": {
+      "Kitty": "1TYt4A7YqwaeMUEF",
+      "Name": "Pork Chop",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "62": {
+      "Kitty": "1wpap8yckt96vOoU",
+      "Name": "Soup",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "63": {
+      "Kitty": "1y0sv9lnCIIiOiiT",
+      "Name": "Hexeblanket",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "64": {
+      "Kitty": "1Y3dpssxcbHPEkfO",
+      "Name": "Catrick",
+      "HP": 4,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "65": {
+      "Kitty": "1Y7TMLfxRN6HmCv0",
+      "Name": "Aubergine",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 1
+   },
+   "66": {
+      "Kitty": "1ZfGU7z1uIdnehgj",
+      "Name": "Dijon and Bijon",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "67": {
+      "Kitty": "1ZJqBeUSx5hXK3J8",
+      "Name": "Abu",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "68": {
+      "Kitty": "1ZYN5WA7oCyQpy8h",
+      "Name": "Din",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "69": {
+      "Kitty": "22aAuf1dsGT4uSOi",
+      "Name": "Pudding",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "70": {
+      "Kitty": "22tTAaFI1Q33YBGO",
+      "Name": "Batman",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "71": {
+      "Kitty": "24WlaURCbtQyC5qN",
+      "Name": "Mr Business",
+      "HP": 4,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "72": {
+      "Kitty": "25esBUofRVePPAN5",
+      "Name": "Clawdia",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "73": {
+      "Kitty": "28ZtVybuyptnWzTM",
+      "Name": "Flooficus + Dooficus",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "74": {
+      "Kitty": "299YJTAQz9R6cfGP",
+      "Name": "Yardstick",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "75": {
+      "Kitty": "2AjkEyDta2fk44NE",
+      "Name": "Skuzzlebutt",
+      "HP": 6,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "76": {
+      "Kitty": "2Bb8z8bR1w5EFHhz",
+      "Name": "Kit Puddington",
+      "HP": 10,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "77": {
+      "Kitty": "2bnPzTo1hBCSo4rz",
+      "Name": "Larry",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "78": {
+      "Kitty": "2bPYDRuvU70sbgja",
+      "Name": "Victor",
+      "HP": 8,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "79": {
+      "Kitty": "2ChLbdjUjjwehaHV",
+      "Name": "Blob",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "80": {
+      "Kitty": "2e0FOizQ3iNfwgMh",
+      "Name": "Daniel Day Mewis",
+      "HP": 5,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "81": {
+      "Kitty": "2EGeQU9fUQSmO2Te",
+      "Name": "Nanners",
+      "HP": 9,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "82": {
+      "Kitty": "2eXYJhGolHqOAKaM",
+      "Name": "Miss Cheese",
+      "HP": 9,
+      "ATK": 5,
+      "DEF": 2
+   },
+   "83": {
+      "Kitty": "2gakTsWOt6sq3pqS",
+      "Name": "Chocolate Death",
+      "HP": 5,
+      "ATK": 5,
+      "DEF": 1
+   },
+   "84": {
+      "Kitty": "2ihCjEch6BVdv8Yx",
+      "Name": "Stevensworth III",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "85": {
+      "Kitty": "2kKhMn9BCAhMem6V",
+      "Name": "Steve",
+      "HP": 3,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "86": {
+      "Kitty": "2LC9Ne6SIMXnIdXZ",
+      "Name": "Masraf",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "87": {
+      "Kitty": "2lnVocnpd25cUka7",
+      "Name": "Mr Karamazov",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "88": {
+      "Kitty": "2lo2luOySDGPFCng",
+      "Name": "Lady Agadora",
+      "HP": 10,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "89": {
+      "Kitty": "2LTXz5STKmTHCESu",
+      "Name": "Dishrag",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "90": {
+      "Kitty": "2MLfyVlPy09vZK5c",
+      "Name": "Manfish",
+      "HP": 3,
+      "ATK": 3,
+      "DEF": 0
+   },
+   "91": {
+      "Kitty": "2n2is2NLgWTV1smC",
+      "Name": "Cheddar Jack",
+      "HP": 6,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "92": {
+      "Kitty": "2PhQ92iE2EVNF0ot",
+      "Name": "Floofy McDoofy",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "93": {
+      "Kitty": "2R4fwl2tPwmSwvp1",
+      "Name": "Leonardo DiCatrio",
+      "HP": 5,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "94": {
+      "Kitty": "2T7yPn3J5qz54Ygy",
+      "Name": "Ketchup",
+      "HP": 4,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "95": {
+      "Kitty": "2tElvyC3TBtGfWsp",
+      "Name": "Noodle",
+      "HP": 7,
+      "ATK": 3,
+      "DEF": 2
+   },
+   "96": {
+      "Kitty": "2tKejk7oauPg3Yt4",
+      "Name": "Mohammed",
+      "HP": 8,
+      "ATK": 3,
+      "DEF": 1
+   },
+   "97": {
+      "Kitty": "2TZUgzYXLM9SzFmX",
+      "Name": "Jack McCoy",
+      "HP": 6,
+      "ATK": 5,
+      "DEF": 0
+   },
+   "98": {
+      "Kitty": "2uWNSTyOg2IVBcAL",
+      "Name": "Kilgore Trout",
+      "HP": 6,
+      "ATK": 4,
+      "DEF": 2
+   },
+   "99": {
+      "Kitty": "2VBf3b9iHaTY9vlG",
+      "Name": "Wooley Booger",
+      "HP": 7,
+      "ATK": 4,
+      "DEF": 0
+   },
+   "100": {
+      "Kitty": "2VcSUtyyFnm45353",
+      "Name": "Cold Brew",
+      "HP": 8,
+      "ATK": 5,
+      "DEF": 2
+   }
+}
